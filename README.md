@@ -13,7 +13,7 @@ Hi I am ASSANE DIONE from in Senegal:
 - 👯 I’m looking to collaborate on OPEN SOURCE
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about SOFT SKILL
-- 📫 How to reach me: TWITTER ("https://https://twitter.com/AssaneD25776611")
+- 📫 How to reach me: TWITTER ("https://twitter.com/AssaneD25776611")
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am very happy
  <hr>
