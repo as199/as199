@@ -1,5 +1,6 @@
 ### Hi there :salut_main:
 **as199/as199** is a  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+src="https://api.daily.dev/devcards/8dcd9c48ca2f4cdba71f5b360769e7d5.png?r=fdz" width="400" alt="Assane Dione's Dev Card"/></a>
 Hi I am ASSANE DIONE from in Senegal:
 </br>
 <a href="https://www.linkedin.com/in/assane-dione-a1a537179/" alt="My LinkedIn" rel="nofollow">
